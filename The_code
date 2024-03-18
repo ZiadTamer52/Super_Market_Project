@@ -25,7 +25,7 @@ ws["B1"] = 'Number Phone'
 ws["C1"] = 'Address'
 ws["D1"] = 'Total'
 ws["E1"] = 'Date'
-wb.save('Omar.xlsx')
+##wb.save('Omar.xlsx')##
 
 
 def save():
